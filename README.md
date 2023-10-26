@@ -6,7 +6,7 @@ PS. path is depend on your workspace.
 
 ## Train model
 
-\*not on mac M1. IT'S TRASH
+*not on mac M1. IT'S TRASH\
 Google Colab is OK ;)
 
 ## Make Cron Job
@@ -17,8 +17,8 @@ Make sure you installed `papermill` if you have anaconda `conda install -c conda
 
 You can check papermill path via `which papermill`.
 
-This crontab will execution notebook everyday in 20:00 or on your depend.
-\*Make sure you see [crontab](https://crontab.guru/) document for more information.
+This crontab will execution notebook everyday in 20:00 or on your depend.\
+*Make sure you see [crontab](https://crontab.guru/) document for more information.
 
 Type and open `crontab -e`.
 
