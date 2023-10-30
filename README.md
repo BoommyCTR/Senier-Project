@@ -32,4 +32,4 @@ By type this `;` followed by `rm -r $HOME/Documents/VisualCode/Senier_Project/de
 
 Exit, Then it's install automatic.
 
-PS. `$HOME` and path in crontab is depend in you workspace. Recommend in full path.
+PS. `$HOME` and path in crontab is depend in your workspace. Recommend in full path.
