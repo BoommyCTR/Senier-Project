@@ -1,0 +1,40 @@
+path: ../datasets/roboflow
+
+train: /Users/boomctr/Documents/VisualCode/Senier_Project/data_noaug/train/images
+val: /Users/boomctr/Documents/VisualCode/Senier_Project/data_noaug/valid/images
+test: /Users/boomctr/Documents/VisualCode/Senier_Project/data_noaug/test/images
+
+names:
+  0: Allergis
+  1: Black-Tiger
+  2: Black-Tiger_Big
+  3: Blackmores
+  4: Cisteine
+  5: Cisteine_Box
+  6: Grafadex
+  7: Heamovit
+  8: Iyara
+  9: Lac-Oph_Red
+  10: Ma-Kham-Pom
+  11: Ma-Kham-Pom_Bottle
+  12: Ma-Vaeng_Light
+  13: Ma-Vaeng_Syrup
+  14: Muclear
+  15: Mucolax
+  16: Nac-Long
+  17: NatC
+  18: Nevramin
+  19: Newpharvit
+  20: Opplin
+  21: Opsar
+  22: Pei-Pa-Koa
+  23: Pei-Pa-Koa_Big
+  24: Rhinalax
+  25: Rhinalax-B
+  26: Solmax
+  27: Solmax-Capsule
+  28: VapoRub_Big
+  29: VapoRub_Mid
+  30: VapoRub_Small
+  31: Vislube20
+  32: Vislube60

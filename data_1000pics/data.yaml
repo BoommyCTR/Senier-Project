@@ -1,0 +1,48 @@
+train: /Users/boomctr/Documents/VisualCode/Senier_Project/data_1000pics/train/images
+val: /Users/boomctr/Documents/VisualCode/Senier_Project/data_1000pics/valid/images
+test: /Users/boomctr/Documents/VisualCode/Senier_Project/data_1000pics/test/images
+
+nc: 33
+names:
+  [
+    "Allergis",
+    "Black-Tiger",
+    "Black-Tiger_Big",
+    "Blackmores",
+    "Cisteine",
+    "Cisteine_Box",
+    "Grafadex",
+    "Heamovit",
+    "Iyara",
+    "Lac-Oph_Red",
+    "Ma-Kham-Pom",
+    "Ma-Kham-Pom_Bottle",
+    "Ma-Vaeng_Light",
+    "Ma-Vaeng_Syrup",
+    "Muclear",
+    "Mucolax",
+    "Nac-Long",
+    "NatC",
+    "Nevramin",
+    "Newpharvit",
+    "Opplin",
+    "Opsar",
+    "Pei-Pa-Koa",
+    "Pei-Pa-Koa_Big",
+    "Rhinalax",
+    "Rhinalax-B",
+    "Solmax",
+    "Solmax-Capsule",
+    "VapoRub_Big",
+    "VapoRub_Mid",
+    "VapoRub_Small",
+    "Vislube20",
+    "Vislube60",
+  ]
+
+roboflow:
+  workspace: senior-project-image-annotate
+  project: senior_project-xsrwa
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/senior-project-image-annotate/senior_project-xsrwa/dataset/11

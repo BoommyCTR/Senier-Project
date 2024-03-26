@@ -1,5 +1,0 @@
-train: /Users/boomctr/Documents/Visual code/Senier Project/data #path to your data with label
-val: /Users/boomctr/Documents/Visual code/Senier Project/data/test #path to your val data
-
-nc: 6
-names: ["Allergis", "Blackmores", "Grafadex", "Heamovit", "NatC", "Rhinalax"]
